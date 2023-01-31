@@ -39,3 +39,11 @@
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
   }
+
+  .css-selectors {
+    display:block
+  }
+.css-selectors h3 {
+ text-align: center;
+}
+
